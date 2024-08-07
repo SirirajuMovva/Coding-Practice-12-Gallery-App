@@ -1,0 +1,12 @@
+/* Write your code here. */
+/* Write your code here. */
+
+.cls {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.img-cls {
+  width: 50%;
+}
